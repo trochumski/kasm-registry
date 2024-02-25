@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'My Kasm registry',
     description: 'My unofficial store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://github.com/trochumski/kasm-registry/',
     contactUrl: 'https://github.com/trochumski/kasm-registry/issues',
   },
   reactStrictMode: true,
